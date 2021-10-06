@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NRameyGH
+- 👋 Hi, I’m @NicoleR_GH
 - 🌱 I’m currently learning MySQL
 - 
 - 
